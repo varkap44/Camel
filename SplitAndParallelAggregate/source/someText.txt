@@ -1,0 +1,3 @@
+This is a log file.
+Log files are very small
+Some specific text can be stashed from logs

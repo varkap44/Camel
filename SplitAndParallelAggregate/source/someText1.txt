@@ -1,0 +1,3 @@
+This is another log file
+Its number is two
+It has also got three lines
